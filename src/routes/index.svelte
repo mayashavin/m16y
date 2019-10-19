@@ -5,7 +5,7 @@ import Logo from '../components/Logo.svelte';
 </script>
 
 <svelte:head>
-	<title>The M16Y Project</title>
+	<title>The M16Y Media Accessibility Project</title>
 </svelte:head>
 
 <div class="flex flex-col items-center h-full mt-10">
